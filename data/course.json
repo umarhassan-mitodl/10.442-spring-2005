@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Microbiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "legacy_uid": "084b3758-ba38-5cdd-06cd-1207a04cf3da",
+  "instructors": {
+    "content": [
+      "16014cbe-1764-0851-8d3a-755b3c87120b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "336be85f-d254-7401-b271-b202ae71a8da",
+    "website": "10-442-biochemical-engineering-spring-2005"
+  },
+  "course_title": "Biochemical Engineering",
+  "course_description": "This course focuses on the interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems are featured among lecture topics. Kinetics of growth, death, and metabolism are also covered. Continuous fermentation, agitation, mass transfer, and scale-up in fermentation systems, and enzyme technology round out the subject material.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "10.542",
+  "primary_course_number": "10.442",
+  "course_image_thumbnail": {
+    "content": "6c94d3e2-fa21-30f4-3984-41502297473e",
+    "website": "10-442-biochemical-engineering-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "52ed12a8-7b66-45ec-9bc3-c92d394baf88",
+  "site_short_id": "10.442-spring-2005",
+  "site_url_path": "courses/10-442-biochemical-engineering-spring-2005",
+  "title": "Course Metadata"
+}
