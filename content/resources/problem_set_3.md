@@ -4,6 +4,8 @@ description: Problems from book Shuler & Kargi.
 file: /courses/10-442-biochemical-engineering-spring-2005/b2bf579713d24ee90fd397d96d6a501a_problem_set_3.pdf
 file_size: 11065
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

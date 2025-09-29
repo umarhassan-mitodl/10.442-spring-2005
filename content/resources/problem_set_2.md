@@ -5,6 +5,8 @@ description: Problems on pesticide, product, enzyme-catalyzed reaction, substrat
 file: /courses/10-442-biochemical-engineering-spring-2005/c9f51aa14914ebcf6354d64136d0eb5a_problem_set_2.pdf
 file_size: 33359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -32,6 +32,7 @@
     "website": "10-442-biochemical-engineering-spring-2005"
   },
   "course_title": "Biochemical Engineering",
+  "hide_download": true,
   "course_description": "This course focuses on the interaction of chemical engineering, biochemistry, and microbiology. Mathematical representations of microbial systems are featured among lecture topics. Kinetics of growth, death, and metabolism are also covered. Continuous fermentation, agitation, mass transfer, and scale-up in fermentation systems, and enzyme technology round out the subject material.\n",
   "department_numbers": [
     "10"
@@ -42,6 +43,7 @@
     "content": "6c94d3e2-fa21-30f4-3984-41502297473e",
     "website": "10-442-biochemical-engineering-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
